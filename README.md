@@ -86,7 +86,7 @@ Real Estate Marketplace in Georgia’s comprehensive marketplace platform tailor
 _Dec 2022 - Dec 2023_
 
 The project involves the comprehensive development of a public alert system that includes both voice and digital notify cations.
-The development process encompasses a wide range of tasks to ensure the system is robust, reliable, and user-friendly..
+The development process encompasses a wide range of tasks to ensure the system is robust, reliable, and user-friendly.
 
 ## 📚 Education
 

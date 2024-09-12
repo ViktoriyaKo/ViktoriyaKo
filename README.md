@@ -72,17 +72,17 @@ The project features a visually stunning design, exceptional performance, and ad
 ## 💼 Experience
 
 **Avsievich Marketing Agency, Frontend Developer**  
-_July 2024 - Present_
+_July 2024 - _Aug 2024
 
 The application is created for a marketing agency from the scratch.
 The project features a visually stunning design, exceptional performance, and advanced SEO optimization, ensuring an engaging user experience and high search engine visibility.
 
-**Batumi Estate, Key Frontend Developer**  
-_Jun 2023 - Present_
+**Batumi Estate, Frontend Developer**  
+_Dec 2023 - Present_
 
 Real Estate Marketplace in Georgia’s comprehensive marketplace platform tailored for the market with user-friendly interface, robust backend management and high performance.
 
-**Baltic-Soft, Lead Frontend Developer**  
+**Baltic-Soft, Frontend Developer**  
 _Dec 2022 - Dec 2023_
 
 The project involves the comprehensive development of a public alert system that includes both voice and digital notify cations.

@@ -2,7 +2,7 @@
 
 # 👋 Hi!
 
-Passionate front-end developer with 2 years of experience. I love creating dynamic web applications and tackling complex tasks.
+Passionate front-end developer with 3+ years of experience. I love creating dynamic web applications and tackling complex tasks.
 
 ## 🚀 Current Projects
 

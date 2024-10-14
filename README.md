@@ -1,5 +1,3 @@
-![Profile Image](./portfolio.png)
-
 # 👋 Hi!
 
 Passionate front-end developer with 3+ years of experience. I love creating dynamic web applications and tackling complex tasks.
@@ -78,7 +76,7 @@ The application is created for a marketing agency from the scratch.
 The project features a visually stunning design, exceptional performance, and advanced SEO optimization, ensuring an engaging user experience and high search engine visibility.
 
 **Batumi Estate, Frontend Developer**  
-_Dec 2023 - Present_
+_Dec 2023 - Aug 2024_
 
 Real Estate Marketplace in Georgia’s comprehensive marketplace platform tailored for the market with user-friendly interface, robust backend management and high performance.
 
